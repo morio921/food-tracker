@@ -1,6 +1,6 @@
-# Good Food Tracker #
+# Food Tracker #
 
-Good food tracker project is a collection of a back end web API (Nodejs & Express), front end web app (Vuejs) and a mobile application (Kotlin). 
+Food tracker project is a collection of a back end web API (Nodejs & Express), front end web app (Vuejs) and a mobile application (Kotlin). 
 
 The project aims to allow the users to take pictures and/or leave notes, ratings, comments about restaurants they visit in order to be able to reference it later when they try to pick were they wanna go eat out or order from. 
 
@@ -26,11 +26,6 @@ To get started on development follow these steps:
 * Keep code clean and simple;
 * **DO NOT** alter the database directly, use migrations;
 * Always use branches and pull requests when making changes to the codebase;
-
-### Who do I talk to? ###
-
-* If you have any question you can contact Igor Ilić via [e-mail](mailto:github@igorilic.net) or [twitter](https://twitter.com/Gac_BL) 
-* If you have found a bug or want to ask for a new feature, open a new issue
 
 ### Features ###
 List of currently completed or still being developed feature: 
@@ -61,8 +56,6 @@ List of currently completed or still being developed feature:
 
 
 ### Notes ###
-
-Database diagram with current, future and optional tables can be found on [dbDiagram.io](https://dbdiagram.io/embed/5f58bd9e88d052352cb6870d).
 
 Possible future tables in the database diagram will be positioned on the right side of the diagram. Whereas the existing 
 ones or the ones that are being worked on are positioned on the left side.   
